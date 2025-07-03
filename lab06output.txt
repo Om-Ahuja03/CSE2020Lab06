@@ -1,0 +1,4 @@
+[?2004l
+Enter chars, exit when enter 'x': ((()))((()))x
+The parentheses are balanced.
+[?2004h
